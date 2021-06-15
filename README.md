@@ -8,7 +8,7 @@
 - 📫 How to reach me [See Here](https://t.me/carlmax_here#contact-me)
 
 <p align="center">
-  <a href="https://t.me/telegram.dog/carlmax_here"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></a>
+  <a href="https://telegram.dog/carlmax_here"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></a>
     </p>
 <h3>
 
