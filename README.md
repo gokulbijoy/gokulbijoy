@@ -25,3 +25,14 @@
 # Stats
 
 ![Hirusha-H's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlmax-here&show_icons=true&theme=tokyonight)
+   <img
+        src="https://github-readme-streak-stats.herokuapp.com?user=FayasNoushad&theme=tokyonight"
+    />
+</p>
+
+<h3 align="left">🔝 Top Languages:</h3>
+<p align="left">
+    <img
+        src="https://github-stats.fayas.cf/api/top-langs/?username=FayasNoushad&layout=compact&hide_title=true&theme=tokyonight"
+    />
+</p>
